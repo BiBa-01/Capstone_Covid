@@ -40,13 +40,16 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 ## Table of Contents
 
 ### COVID-19 Vaccination Progress
-1) Initial Data Exploration, Cleaning and Feature Engineering (including background information on vaccines) [link](https://github.com/BiBa-01/Capstone_Covid/blob/me-re#2/1_COVID_Vaccines.ipynb)
-1) 2nd round data cleaning... (?)
-1) Basic Visualisations of Data Distribution [link](https://github.com/BiBa-01/Capstone_Covid/blob/me-re#2/3_COVID_Vaccines.ipynb)
-1) Visualisations for In-Depth Data Analysis (1)
-1) Visualisations for In-Depth Data Analysis (2)  [link](https://github.com/BiBa-01/Capstone_Covid/blob/me-re#2/5_COVID_Vaccines.ipynb)
-1) merge with new dataset & visualise... (?)
-1) Timeseries Forecasting...
+1) Initial Data Exploration, Cleaning and Feature Engineering (including background information on vaccines) [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/01_COVID_Vaccines.ipynb)
+2) 2nd round data cleaning... merge with new dataset...
+3) Basic Visualisations of Data Distribution [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/03_COVID_Vaccines.ipynb)
+4) Visualisations for In-Depth Data Analysis (1)
+5) Visualisations for In-Depth Data Analysis (2) [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/05_COVID_Vaccines.ipynb)
+6) Feature Selection for Prediction and Time Series Specific EDA [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/06_COVID_Vaccines.ipynb)
+7) Triple Exponential Smoothing (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/07_COVID_Vaccines.ipynb)
+8) SARIMA Model (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/08_COVID_Vaccines.ipynb)
+9) FB Prophet (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/main/09_COVID_Vaccines.ipynb)
+10) XX
 
 ### COVID-19 Tweets....
 1) XXX
@@ -55,8 +58,6 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 1) XXX
 
 ### Presentation
-
-1) Project Pitch [link](https://github.com/BiBa-01/Capstone_Covid/XXX)
 
 1) Project Overview [link](https://github.com/BiBa-01/Capstone_Covid/XXX)
 
@@ -87,3 +88,6 @@ pip install -r requirement.txt
 NOTE: Where?
 %jupyter labextension install jupyterlab-plotly@4.14.3
 %jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.14.3
+
+
+https://github.com/me-re/ds-python-basics/blob/main/Data_Structures_in_Python_Part_2/3_Mutability.ipynb
