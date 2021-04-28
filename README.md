@@ -28,9 +28,7 @@ Key objectives of this COVID-19 Vaccination Project were:
 The following datasets were utilised during this project:
 
 1) Kaggle dataset on 'COVID-19 World Vaccination Progress' (country-wise data, version 81) [Link to up-to-date dataset](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
-
 1) Population, GDP etc dataset
-
 1) Worldwide tweets regarding COVID-19 vaccinations
 
 The data spans a timeframe from mid-December 2020 to late March 2021.
