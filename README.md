@@ -29,7 +29,7 @@ The following datasets were utilised during this project:
 
 1) Kaggle dataset on 'COVID-19 World Vaccination Progress' (country-wise data, version 81) [Link to up-to-date dataset](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
 1) Population, GDP etc dataset
-1) Worldwide tweets regarding COVID-19 vaccinations
+1) Worldwide tweets regarding COVID-19 vaccinations [Link to up-to-date dataset](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets)
 
 The data spans a timeframe from mid-December 2020 to late March 2021.
 
@@ -42,7 +42,9 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 3) Time Series Modelling [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/06_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/07_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/08_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/050ada568054380726ff9c0d0d1c31121a88750c/09_COVID_Vaccines.ipynb)
 
 ### COVID-19 Tweets....
-1) XXX
+1) Exploratory Data Analysis 
+2) Full Tweets Short EDA, Validation of Vader and TextBlob, SVC
+3) Topic Models for Positive and Negative Tweets
 
 ### Presentation
 
@@ -74,7 +76,7 @@ V A C C I N A T I O N S
 
 T W E E T S
 + try to optimize sentiment analysis
-+ 
++ generate semi-supervised model based on deep-learning model of hand-validated test set
 
 ## Environment
 
