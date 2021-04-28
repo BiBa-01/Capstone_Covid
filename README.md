@@ -40,20 +40,10 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 
 ### COVID-19 Vaccination Progress
 1) Initial Data Exploration, Cleaning and Feature Engineering (including background information on vaccines) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/01_COVID_Vaccines.ipynb)
-2) 2nd round data cleaning... merge with new dataset...
-3) Basic Visualisations of Data Distribution [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/03_COVID_Vaccines.ipynb)
-4) Visualisations for In-Depth Data Analysis (1)
-5) Visualisations for In-Depth Data Analysis (2) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/05_COVID_Vaccines.ipynb)
-6) Feature Selection for Prediction and Time Series Specific EDA [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/06_COVID_Vaccines.ipynb)
-7) Triple Exponential Smoothing (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/07_COVID_Vaccines.ipynb)
-8) SARIMA Model (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/08_COVID_Vaccines.ipynb)
-9) FB Prophet (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/050ada568054380726ff9c0d0d1c31121a88750c/09_COVID_Vaccines.ipynb)
-10) XX
+2) Exploratory Data Analysis [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/03_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/05_COVID_Vaccines.ipynb)
+3) Time Series Modelling [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/06_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/07_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/08_COVID_Vaccines.ipynb) [link](https://github.com/BiBa-01/Capstone_Covid/blob/050ada568054380726ff9c0d0d1c31121a88750c/09_COVID_Vaccines.ipynb)
 
 ### COVID-19 Tweets....
-1) XXX
-
-### COVID-19 Social Media Trends and Vaccination Progress
 1) XXX
 
 ### Presentation
