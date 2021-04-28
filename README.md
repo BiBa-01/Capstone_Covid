@@ -63,7 +63,7 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 
 ## Results
 
-V A C C I N A T I O N  P R O G R E S S 
+V A C C I N A T I O N  - P R O G R E S S 
 + vaccination start differs strongly between countries/regions
 + vaccination strategies differ
 + vaccine availability: rich countries have the advantage
@@ -80,12 +80,13 @@ T W E E T S
 
 ## Future Work
 
-T W E E T S
-+ try to optimize sentiment analysis
-
 V A C C I N A T I O N S
 + improve models for forecasting population fully vaccinated/per country 
 + Test model with new data
+
+T W E E T S
++ try to optimize sentiment analysis
++ 
 
 ## Environment
 
@@ -99,7 +100,7 @@ pip install --upgrade pip
 pip install -r requirement.txt
 ```
 
-For Plotly you need to also install
+For Plotly you need to also install:
 ```
 jupyter labextension install jupyterlab-plotly@4.14.3
 jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.14.3
