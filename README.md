@@ -18,10 +18,9 @@ A more detailed overview of the COVID-19 pandemic by the WHO can be accessed [he
 
 Key objectives of this COVID-19 Vaccination Project were:
 
-1) Analyse and visualise the worldwide vaccination progress
-1) Forecast when total population per country will be vaccinated
-1) Explore patterns in Vaccination Tweet Sentiments
-1) Combine the Datasets 
+1) Analyze and visualize the start of the vaccination progress worldwide
+2) Patterns in vaccination tweets: numbers and sentiments
+3) Connections: vaccination progress and vaccination tweets
 
 
 ## Datasets
@@ -48,7 +47,7 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 6) Feature Selection for Prediction and Time Series Specific EDA [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/06_COVID_Vaccines.ipynb)
 7) Triple Exponential Smoothing (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/07_COVID_Vaccines.ipynb)
 8) SARIMA Model (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/08_COVID_Vaccines.ipynb)
-9) FB Prophet (Daily Vaccinations) [link](XXX)
+9) FB Prophet (Daily Vaccinations) [link](https://github.com/BiBa-01/Capstone_Covid/blob/050ada568054380726ff9c0d0d1c31121a88750c/09_COVID_Vaccines.ipynb)
 10) XX
 
 ### COVID-19 Tweets....
