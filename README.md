@@ -47,7 +47,7 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 
 ### Presentation
 
-1) Project Overview Slides [pdf](https://github.com/BiBa-01/Capstone_Covid/XXX)
+1) Project Overview Slides [pdf](https://github.com/BiBa-01/Capstone_Covid/blob/dcd51e075f0c34843166ffb33c1ea1abfce947f7/COVID19_Vaccinations.pdf)
 
 
 ## Results
