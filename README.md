@@ -36,9 +36,9 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 ## Table of Contents
 
 ### COVID-19 Vaccination Progress
-1) Initial Data Exploration, Cleaning and Feature Engineering [Notebook 01](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/01_COVID_Vaccines.ipynb) [Notebook 02](https://github.com/BiBa-01/Capstone_Covid/blob/main/24042021_Cleaning_Birte.ipynb)
-2) Exploratory Data Analysis [Notebook 03](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/03_COVID_Vaccines.ipynb) [Notebook 04](https://github.com/BiBa-01/Capstone_Covid/blob/main/25042021_EDA_Visualization_Birte.ipynb) [Notebook 05](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/05_COVID_Vaccines.ipynb)
-3) Time Series Modelling [Notebook 06](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/06_COVID_Vaccines.ipynb) [Notebook 07](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/07_COVID_Vaccines.ipynb) [Notebook 08](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/08_COVID_Vaccines.ipynb) [Notebook 09](https://github.com/BiBa-01/Capstone_Covid/blob/050ada568054380726ff9c0d0d1c31121a88750c/09_COVID_Vaccines.ipynb) [Notebook 10](https://github.com/BiBa-01/Capstone_Covid/blob/main/24042021_Modelling_Birte.ipynb) [Notebook 11](https://github.com/BiBa-01/Capstone_Covid/blob/main/25042021_Timeseries_fbprophet_Birte.ipynb)
+1) Initial Data Exploration, Cleaning and Feature Engineering [Notebook 01](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/01_COVID_Vaccines.ipynb) / [Notebook 02](https://github.com/BiBa-01/Capstone_Covid/blob/main/24042021_Cleaning_Birte.ipynb)
+2) Exploratory Data Analysis [Notebook 03](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/03_COVID_Vaccines.ipynb) / [Notebook 04](https://github.com/BiBa-01/Capstone_Covid/blob/main/25042021_EDA_Visualization_Birte.ipynb) / [Notebook 05](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/05_COVID_Vaccines.ipynb)
+3) Time Series Modelling [Notebook 06](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/06_COVID_Vaccines.ipynb) / [Notebook 07](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/07_COVID_Vaccines.ipynb) / [Notebook 08](https://github.com/BiBa-01/Capstone_Covid/blob/f49a910f3ffb04ddd04a8e2c8a4e628fe8f1e794/08_COVID_Vaccines.ipynb) / [Notebook 09](https://github.com/BiBa-01/Capstone_Covid/blob/050ada568054380726ff9c0d0d1c31121a88750c/09_COVID_Vaccines.ipynb) / [Notebook 10](https://github.com/BiBa-01/Capstone_Covid/blob/main/24042021_Modelling_Birte.ipynb) / [Notebook 11](https://github.com/BiBa-01/Capstone_Covid/blob/main/25042021_Timeseries_fbprophet_Birte.ipynb)
 
 ### COVID-19 Tweets....
 1) Exploratory Data Analysis 
@@ -47,12 +47,12 @@ The data spans a timeframe from mid-December 2020 to late March 2021.
 
 ### Presentation
 
-1) Project Overview [link](https://github.com/BiBa-01/Capstone_Covid/XXX)
+1) Project Overview Slides [pdf](https://github.com/BiBa-01/Capstone_Covid/XXX)
 
 
 ## Results
 
-V A C C I N A T I O N  - P R O G R E S S 
+V A C C I N A T I O N S
 + vaccination start differs strongly between countries/regions
 + vaccination strategies differ
 + vaccine availability: rich countries have the advantage
